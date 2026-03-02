@@ -1,4 +1,4 @@
-# Onyx-DataDNA-Challenge
+# Onyx-DataDNA-Challenge projects
 This repository documents my participation in the monthly Onyx dataDNA analytical challenges. Each challenge presents a real-world business scenario requiring structured data cleaning, analysis, visualization, and insight generation.
 
 The goal of this repository is to showcase my ability to:
