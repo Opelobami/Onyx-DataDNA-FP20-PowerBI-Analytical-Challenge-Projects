@@ -48,3 +48,12 @@ This repository demonstrates continuous learning, structured problem-solving, an
 - **Repository:** [View Project →](https://github.com/Opelobami/Pharma-Data-Analytics)
 
 ---
+
+### Enterprise Sales Pipeline
+**A Power BI analytics solution that gives sales managers, account executives, and business leaders a daily decision-making resource, tracking pipeline health, surfacing at-risk deals, and exposing where revenue is silently dying**
+
+- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1h0o__4EHKsW3FI8TjsdjbTRpp5tZXQKU?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
+
+---
