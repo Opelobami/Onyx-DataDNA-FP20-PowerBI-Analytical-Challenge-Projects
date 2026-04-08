@@ -69,3 +69,13 @@ This repository demonstrates continuous learning, structured problem-solving, an
 - **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
 
 ---
+
+### International Maritime Logistics Analysis
+
+**Power BI analytics solution for global maritime terminal operations, diagnosing infrastructure bottlenecks, measuring the Suez Canal disruption's operational footprint, and surfacing the efficiency anomalies standing between current performance and a data-driven path to smarter terminal allocation**
+
+- **Tools:** Power Query, PowerBI, Google Drive.
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1CWMbq_VHrZrbCbi84xGwfd3wk5qfgVOB?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/International-Maritime-Logistics-Analysis)
+
+---
