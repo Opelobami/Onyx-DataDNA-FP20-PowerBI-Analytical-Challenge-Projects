@@ -1,4 +1,4 @@
-# Onyx DataDNA & FP20 Analytical Challenge projects
+# Onyx DataDNA & FP20 PowerBI Analytical Challenge projects
 This repository documents my participation in the monthly Onyx dataDNA and FP20 analytical challenges. Each challenge presents a real-world business scenario requiring structured data cleaning, analysis, visualization, and insight generation.
 
 The goal of this repository is to showcase my ability to:
